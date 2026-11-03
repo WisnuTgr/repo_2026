@@ -1,3 +1,5 @@
 "Teks file 1" 
 
 Jadi ini adalah file 1 dalam format text atau .txt
+
+Dan ini adalah update yang dilakukan secara local di computer pada file1
