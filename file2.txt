@@ -1,1 +1,3 @@
 "Teks file 2" 
+
+Jadi ini adalah file 2 dalam format text atau .txt
